@@ -1,0 +1,19 @@
+- intro:
+  description: "A list your side projects and open source libraries."
+
+- project:
+  title: cervicalCancer
+  link: "https://github.com/BrianPhiri/cervicalCancer.git"
+  tagline: "Applying machine learning to try detect cervical cancer"
+- project:
+  title: Msaidizi
+  link: "https://github.com/BrianPhiri/msaidizi.git"
+  tagline: "This an android application that is used to link different people to services offered by other people on the platform"
+- project:
+  title: kuficha
+  link: "https://github.com/BrianPhiri/kuficha.git"
+  tagline: "An online private diary written in php"
+- projecy :
+  title: Project Sound
+  link: "https://github.com/informatics4/classifier.git"
+  tagline: "This is a machine learning model that is able to classify environmental sounds."

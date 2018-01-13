@@ -1,0 +1,17 @@
+- experience:
+  role: Software developer
+  time: 2016 - 2017
+  company: HP research Lab, Kenya
+  details: "The lab works with different companies to provied health solutions in kenya. While in the lab I was tasked with developing API services for one of their projects(ADT).
+  ADT stands for Antiviral dispensary tool kit it is a tool used by the ministry of health kenya to manage and monitore drugs and paitents suffering from HIV/AIDS."
+- experience:
+  role: Software developer
+  time: 2015 - 2016
+  company: Strathmore University, Kenya
+  details: "Worked on the university clearing system as an external developer. The system offeres an online portal to clear off students leaving a course."
+- experience:
+  role: Lab Technician
+  time: Mar 2015 - Jun 2015
+  company: Strathmore University, Kenya
+  details: "This involved maintaining computers. 
+  The job description included Managing computer hardware and insuring computer software was upto date and all machines were connectied to a network."
