@@ -1,7 +1,7 @@
 # Site Settings
 title: My Resume
 url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: 'online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -16,11 +16,11 @@ tagline: Full Stack Developer
 pic: myAvatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'An experienced Zambian developer with a demonstrated history of working in the higher education industry. 
 Skilled in Python, Node.js, PHP and obsessed with building technology that helps people work better.
-I plan on building my own version of Gir (invader Zim's trusted companion) and maybe take over the universe but till then i will play chess, go swimming and eat burgers'
+I plan on building my own version of Gir (invader Zim's trusted companion) and maybe take over the universe but till then i will play chess, go swimming and eat burgers.'
 
 #sidebar links
 email: brianphiri.9523@gmail.com
-phone: +254 786 374 030
+phone: '+254 786 374030'
 website: blog.webjeda.com #do not add http://
 linkedin: BrianBhiri
 github: BrianPhiri
