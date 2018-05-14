@@ -12,7 +12,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Brian Phiri
-tagline:  Full Stack Developer
+tagline:  Backend Developer
 pic:  myAvatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary:  "An experienced Zambian developer with a demonstrated history of working in the higher education industry. Skilled in Python, Node.js, PHP and obsessed with building technology that helps people work better.I plan on building my own version of Gir (invader Zim's trusted companion) and maybe take over the universe but till then i will play chess, go swimming and eat burgers."
 
